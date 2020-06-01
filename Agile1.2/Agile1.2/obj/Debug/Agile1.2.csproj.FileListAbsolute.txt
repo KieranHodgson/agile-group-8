@@ -1,0 +1,14 @@
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1.2.csprojAssemblyReference.cache
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1._2.LockScreen.resources
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1._2.HomeScreen.resources
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1._2.Properties.Resources.resources
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1._2.SettingsScreen.resources
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1.2.csproj.GenerateResource.cache
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\bin\Debug\Agile1.2.exe.config
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\bin\Debug\Agile1.2.exe
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\bin\Debug\Agile1.2.pdb
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1.2.exe
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1.2.pdb
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1._2.ClubsScreen.resources
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1._2.GroupsScreen.resources
+C:\Users\caleb\OneDrive\Documents\Agile\Agile1.2\Agile1.2\obj\Debug\Agile1._2.ExampleClubSecreen.resources
