@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gX3S11zonMxipL5D9VkWU8ltuwgBTXbXd5jxz7s88tlUCS0JbiBjXEiZ9UIMu2ctxSVeqZXeUbvgaypbwpGUg==",
+  "dgSpecHash": "5/GX4f70nL/xc2xSN7nTcA/+R1nEUU0HeG/VVqIH0fh3VZFgKVtXJA5shznuec/mIP2lFPat9JI3K3lcqGMYmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kieran pc\\source\\repos\\Union Organiser\\Union Organiser\\Union Organiser.csproj",
+  "projectFilePath": "C:\\Users\\kieran pc\\source\\repos\\New folder\\Agile1.2\\Union Organiser\\Union Organiser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kieran pc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

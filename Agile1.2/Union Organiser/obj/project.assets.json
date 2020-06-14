@@ -1557,11 +1557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kieran pc\\source\\repos\\Union Organiser\\Union Organiser\\Union Organiser.csproj",
+      "projectUniqueName": "C:\\Users\\kieran pc\\source\\repos\\New folder\\Agile1.2\\Union Organiser\\Union Organiser.csproj",
       "projectName": "Union Organiser",
-      "projectPath": "C:\\Users\\kieran pc\\source\\repos\\Union Organiser\\Union Organiser\\Union Organiser.csproj",
+      "projectPath": "C:\\Users\\kieran pc\\source\\repos\\New folder\\Agile1.2\\Union Organiser\\Union Organiser.csproj",
       "packagesPath": "C:\\Users\\kieran pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kieran pc\\source\\repos\\Union Organiser\\Union Organiser\\obj\\",
+      "outputPath": "C:\\Users\\kieran pc\\source\\repos\\New folder\\Agile1.2\\Union Organiser\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
