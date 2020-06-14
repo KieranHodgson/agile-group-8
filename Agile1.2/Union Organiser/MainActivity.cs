@@ -49,7 +49,14 @@ namespace Union_Organiser
         }
         public bool Login (string loginPasswordString, string loginUsernameString)
         {
-            return false;
+            if (loginPasswordString == "password" && loginUsernameString == "Username")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
     }
